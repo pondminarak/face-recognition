@@ -1,4 +1,6 @@
 <h2>Step1 Install several Python packages </h2> <br>
+<p>suggestion : Odroid And R Pi USE In Project</p>
+<hr>
 <p>1. OpenCV for image processing and camera handling :</p> <br>
 <p> command : pip install opencv-python </p>
 <hr>
@@ -30,6 +32,7 @@
 <hr>
 <h2>Step3 Using OpenCv </h2> <br>
 <p>open Odroid_Code.py and Sucess</p>
-
-<p>Ex</p>
+<hr>
+<h2>Ex</2>
 <a href="https://youtu.be/pw-xLV8kSCk?si=H5fiZP8YH2dgKfVJ">Click  ME</a>
+
