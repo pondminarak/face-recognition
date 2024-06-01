@@ -24,3 +24,12 @@
 <p>8. simple-facerec (assuming it’s a custom or third-party module, you may need to install it manually if it’s not available via pip) : </p> <br>
 <p> command : pip install simple-facerec </p>
 <hr>
+<h2>Step2 Screen Shoot Photo </h2> <br>
+<p>- open file frame.py and space bar to screen Shoot </p> <br>
+<p>- open file simple_facerec.py encoding image and save name </p>
+<hr>
+<h2>Step3 Using OpenCv </h2> <br>
+<p>open Odroid_Code.py and Sucess</p>
+
+<p>Ex</p>
+<a href="https://youtu.be/pw-xLV8kSCk?si=H5fiZP8YH2dgKfVJ">Click  ME</a>
