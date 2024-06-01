@@ -11,3 +11,16 @@
 <p>4. oauth2client for handling OAuth 2.0 credentials :</p> <br>
 <p> command : pip install oauth2client </p>
 <hr>
+<p>5. google-api-python-client for Google Drive API interaction : :</p> <br>
+<p> command : pip install google-api-python-client </p>
+<hr>
+<p>6. requests for making HTTP requests (used for sending notifications to LINE Notify) :</p> <br>
+<p> command : pip install requests </p>
+<hr>
+<p>7. google-auth and google-auth-oauthlib for handling Google authentication : </p> <br>
+<p> command : pip install google-auth google-auth-oauthlib google-auth-httplib2
+ </p>
+<hr>
+<p>8. simple-facerec (assuming it’s a custom or third-party module, you may need to install it manually if it’s not available via pip) : </p> <br>
+<p> command : pip install simple-facerec </p>
+<hr>
